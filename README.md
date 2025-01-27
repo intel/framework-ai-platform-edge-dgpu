@@ -1,3 +1,9 @@
+# PROJECT NOT UNDER ACTIVE MANAGEMENT #  
+This project will no longer be maintained by Intel.  
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.  
+Intel no longer accepts patches to this project.  
+ If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the open source software community, please create your own fork of this project.  
+  
 ## Overview
 The following diagram illustrates a high-level discrete GPU-based Linux software stack to run High Performance Computing and AI/ML workloads on Intel® Xeon® platforms with Intel® Data Center Flex Series GPUs. This document provides a sample dockerfile with build instructions to automate installations of the recommended base GPU/media user space modules and AI/ML software components on the Intel® Edge Server platform with Intel® Data Center Flex Series GPUs.
 
